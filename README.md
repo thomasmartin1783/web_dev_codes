@@ -15,6 +15,24 @@
     }
 
 
+
+
+
+    .library {
+        overflow-y: scroll;
+    }
+    .library::-webkit-scrollbar {
+        width: 0.25rem;
+    }
+    .library::-webkit-scrollbar-track {
+        background: lavender;
+    } 
+    .library::-webkit-scrollbar-thumb {
+        background: cornflowerblue;
+    }
+
+
+
 ```
 
 
