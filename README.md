@@ -1,10 +1,10 @@
 # scrollbar
 
 
-```html
+```css
 
 
-     body::-webkit-scrollbar {
+    body::-webkit-scrollbar {
         width: 0.25rem;
     }
     body::-webkit-scrollbar-track {
