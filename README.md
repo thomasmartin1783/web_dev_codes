@@ -1,8 +1,10 @@
 # scrollbar
 
+
 ```html
 
-      body::-webkit-scrollbar {
+
+     body::-webkit-scrollbar {
         width: 0.25rem;
     }
     body::-webkit-scrollbar-track {
@@ -11,6 +13,7 @@
     body::-webkit-scrollbar-thumb {
         background: #0b052f;
     }
+
 
 ```
 
